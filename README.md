@@ -1,4 +1,4 @@
-# Ames_Housing_Prices
+# Ames-Housing-Prices
 Basic workflow for selecting features for a linear regression model.
 
 From dataquest.io "Linear Regression for Machine Learning" guided project, encompasses data cleaning, feature selection, and model fit/predict methods.
